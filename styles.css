@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body {
+      font-family: Arial, sans-serif;
+      padding: 30px;
+    }
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+    input, select {
+      padding: 8px;
+      width: 300px;
+      margin-top: 5px;
+    }
